@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.Page1{
+    height:750px;
+    width: 100%;
+    background-size: cover();
+    background: linear-gradient(
+        90deg,
+        #e9967a 20%,
+        #ffe4c4 70%,
+        #ffebcd 80%
+    );
+}
+
+.col1{
+    height: 700px;
+    width: 30%;
+}
+
+.col2{
+    height: 680px;
+    width: 30%;
+
+
+}
+
+.col3{
+    height:680px;
+    width: 800px;
+}
+
+.Sub_col{
+    width:fit-content;
+    position: relative;
+    left: 110px;
+
+}
